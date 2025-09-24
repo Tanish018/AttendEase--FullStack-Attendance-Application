@@ -1,4 +1,4 @@
-# SIH Project
+# AttendEase
 
 A full-stack web application for student management, attendance tracking, authentication, and feedback/complaints, built with React, Node.js, Express, and MongoDB.
 
@@ -107,11 +107,3 @@ SIH Project/
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-[MIT](LICENSE)
-
----
-
-**Made for SIH 2025**
