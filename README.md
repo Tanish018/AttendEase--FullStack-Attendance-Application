@@ -78,7 +78,7 @@ CLOUDINARY_SECRET=your_cloudinary_secret
 ## Folder Structure
 
 ```
-SIH Project/
+AttendEase/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
