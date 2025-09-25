@@ -33,8 +33,8 @@ A full-stack web application for student management, attendance tracking, authen
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/sih-project.git
-   cd sih-project
+   git clone https://github.com/your-username/attendease.git
+   cd attendease
    ```
 
 2. **Backend Setup:**
